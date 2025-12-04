@@ -108,22 +108,23 @@ Users can toggle devices through:
 ### Circuit Diagrams & Prototypes
 
 #### 📌 LM35 Sensor Test (Proteus Simulation)
-![LM35 Test](path/to/lm35-test.png)
+<img width="606" height="312" alt="image" src="https://github.com/user-attachments/assets/80ee249a-9433-4490-a240-70becb0221fa" />
 
 #### 📌 Breadboard Testing With ESP32
-![ESP32 Breadboard](path/to/breadboard-test.png)
+<img width="236" height="421" alt="image" src="https://github.com/user-attachments/assets/4d040f7c-c76a-4dcb-8275-511b9ba5b4f7" />
 
 #### 📌 Fan Speed Control Relay Logic
-![Fan Relay Logic](path/to/fan-relay-logic.png)
+<img width="633" height="397" alt="image" src="https://github.com/user-attachments/assets/cac6d42a-06cb-4a22-a8be-1d03f0b99097" />
 
 #### 📌 Light Control Relay Logic
-![Light Relay Logic](path/to/light-relay-logic.png)
+<img width="463" height="289" alt="image" src="https://github.com/user-attachments/assets/dd0c61f8-deaf-4903-9141-4deaac76509c" />
 
 #### 📌 Proteus Simulation – Relay System
-![Proteus Simulation](path/to/proteus-simulation.png)
+<img width="713" height="719" alt="image" src="https://github.com/user-attachments/assets/77a3e05e-809f-422f-b08f-e35e93190f58" />
+
 
 #### 📌 Final Hardware Prototype
-![Final Prototype](path/to/final-prototype.png)
+<img width="372" height="660" alt="image" src="https://github.com/user-attachments/assets/739894c2-915a-4286-8ef7-e37b91207206" />
 
 ---
 
@@ -132,16 +133,16 @@ Users can toggle devices through:
 ### Tasmota Configuration
 
 #### 1️⃣ Configure GPIOs
-![Tasmota GPIO Config](path/to/tasmota-gpio.png)
+<img width="362" height="596" alt="image" src="https://github.com/user-attachments/assets/00f63b8c-26a2-4a87-a65b-d2aa1e2197fc" />
 
 #### 2️⃣ Tasmota Home Page
-![Tasmota Home](path/to/tasmota-home.png)
+<img width="758" height="410" alt="image" src="https://github.com/user-attachments/assets/4c3cbce0-b738-43c5-9a00-b5ef7eda57da" />
 
 #### 3️⃣ MQTT in Tasmota
-![Tasmota MQTT](path/to/tasmota-mqtt.png)
+<img width="425" height="502" alt="image" src="https://github.com/user-attachments/assets/eb717d99-11c7-4be8-90bf-e4eea1009f73" />
 
 #### 4️⃣ Tasmota Template Setup
-![Tasmota Template](path/to/tasmota-template.png)
+<img width="425" height="502" alt="image" src="https://github.com/user-attachments/assets/cb0e22fd-94b7-4dd0-b435-e730159b8581" />
 
 ---
 
@@ -161,25 +162,29 @@ Password: ****
 ---
 
 ### Home Assistant Integration
+<img width="975" height="520" alt="image" src="https://github.com/user-attachments/assets/ccde5b2b-8def-42d2-bab4-5c3c2072171d" />
 
 #### Discovered Devices
-![HA Devices](path/to/ha-devices.png)
+<img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/11220eb0-9f94-4cc2-84d6-32eee75a6efb" />
 
 #### Exposing Devices to Voice Assistants
-![HA Expose](path/to/ha-expose.png)
+<img width="708" height="394" alt="image" src="https://github.com/user-attachments/assets/1e78a0f0-dd5d-489b-bde9-9d1bd69695a4" />
 
 #### Entity Configuration
-![HA Entities](path/to/ha-entities.png)
+<img width="653" height="351" alt="image" src="https://github.com/user-attachments/assets/44443201-1a45-4d80-b7e3-07b0a44086bb" />
+<img width="534" height="408" alt="image" src="https://github.com/user-attachments/assets/2a2a1040-cc8c-4ed2-977e-5792ae65ecc2" />
 
 ---
 
 ### Voice Assistant Integration
 
 #### 🗣️ Google Home
-![Google Home Integration](path/to/google-home.png)
+<img width="481" height="1014" alt="image" src="https://github.com/user-attachments/assets/f1ac8b6f-8507-4330-bd7e-899dacb0c187" />
+
+
 
 #### 🗣️ Alexa Integration
-![Alexa Integration](path/to/alexa-integration.png)
+<img width="458" height="980" alt="image" src="https://github.com/user-attachments/assets/51948329-bd0d-4afb-a0f8-e6e6e2801265" />     
 
 ---
 
